@@ -67,7 +67,8 @@ function useModal() {
     ) : null
     return {
         ModalProvider: Provider,
-        showModal: show
+        showModal: show,
+        closeModal: close,
     }
 }
 

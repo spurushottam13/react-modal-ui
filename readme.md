@@ -4,6 +4,7 @@
 ## Naive Example:
 This is native example of modal, but it offer lot of customization.
 
+[Demo](https://codesandbox.io/s/react-modal-ui-hec7z)   
 ```javascript
 import useModal from 'react-modal-ui'
 function App() {
